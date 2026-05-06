@@ -1,0 +1,9 @@
+Sources,P(e),P(not e),P(50-50),Remarks
+expert1,0.0,1.0,0.0,
+expert2,0.3,0.3,0.4,
+expert3,0.5,0.0,0.5,PEEP levels could influence medical diagnosis ie Ventilator associated pneumonia
+expert4,0.0,0.8,0.2,
+expert5,0.33,0.33,0.34,
+expert6,0.1,0.75,0.15,
+expert7,0.1,0.6,0.3,
+expert8,0.0,1.0,0.0,

@@ -1,0 +1,9 @@
+Sources,P(e),P(not e),P(50-50),Remarks
+expert1,0.0,1.0,0.0,
+expert2,0.5,0.5,0.0,
+expert3,0.0,1.0,0.0,too vague.
+expert4,0.4,0.4,0.2,
+expert5,0.33,0.33,0.34,
+expert6,0.4,0.35,0.25,
+expert7,0.5,0.05,0.45,
+expert8,0.6,0.2,0.2,

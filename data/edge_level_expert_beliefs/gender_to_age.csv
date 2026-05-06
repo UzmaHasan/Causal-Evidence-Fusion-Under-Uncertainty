@@ -1,0 +1,9 @@
+Sources,P(e),P(not e),P(50-50),Remarks
+expert1,0.0,1.0,0.0,
+expert2,0.0,0.0,1.0,
+expert3,0.85,0.0,0.15,Gender may influence life expectancy and therefore age
+expert4,0.6,0.3,0.1,
+expert5,0.75,0.1,0.15,Gender may influence survival
+expert6,0.05,0.9,0.05,
+expert7,0.0,0.9,0.1,
+expert8,0.3,0.6,0.1,

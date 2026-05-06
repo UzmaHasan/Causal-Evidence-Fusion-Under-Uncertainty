@@ -1,0 +1,26 @@
+age – Age of the patient (in years).
+gender – Biological sex of the patient (male/female).
+bmi – Body Mass Index (kg/m²).
+surgery – Surgical diagnosis (yes/no).
+trauma – Trauma diagnosis (yes/no).
+medical – Medical diagnosis (yes/no).
+apsiii – Acute Physiology Score III (severity of illness index).
+sofa – Sequential Organ Failure Assessment score.
+smoker – Smoking status (yes/no).
+copd – Chronic Obstructive Pulmonary Disease (diagnosis present/absent).
+ischemicHd – Ischemic Heart Disease (diagnosis present/absent).
+ards – Acute Respiratory Distress Syndrome (diagnosis present/absent).
+death – 90-day mortality outcome (yes/no).
+oxygenation – Oxygen therapy treatment arm (conservative vs liberal strategy indicator).
+spo2 – Peripheral Oxygen Saturation as measured by pulse oximetry (SpO₂).
+fio2 – Fraction of Inspired Oxygen (FiO₂).
+sao2 – Arterial Oxygen Saturation (SaO₂).
+pao2 – Arterial Partial Pressure of Oxygen (PaO₂, mmHg).
+paco2 – Arterial Partial Pressure of Carbon Dioxide (PaCO₂, mmHg).
+ph – Arterial Blood pH.
+lactate – Blood Lactate Level (mmol/L).
+hemoglobin – Hemoglobin Concentration (g/dL).
+peep – Positive End-Expiratory Pressure (cm H₂O).
+vt – Tidal Volume (mL) delivered per breath on the ventilator.
+peakAirPressure – Peak Airway Pressure (cm H₂O).
+minVentVol – Minute Ventilation Volume (L/min).

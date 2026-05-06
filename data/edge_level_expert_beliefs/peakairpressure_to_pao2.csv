@@ -1,0 +1,9 @@
+Sources,P(e),P(not e),P(50-50),Remarks
+expert1,0.0,0.0,1.0,
+expert2,0.7,0.2,0.1,
+expert3,1.0,0.0,0.0,
+expert4,0.0,0.8,0.2,
+expert5,0.05,0.9,0.05,
+expert6,0.55,0.25,0.2,
+expert7,0.25,0.25,0.5,
+expert8,0.0,1.0,0.0,

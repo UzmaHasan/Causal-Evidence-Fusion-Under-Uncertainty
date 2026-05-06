@@ -1,0 +1,9 @@
+Sources,P(e),P(not e),P(50-50),Remarks
+expert1,0.0,0.0,1.0,
+expert2,0.6,0.3,0.1,
+expert3,1.0,0.0,0.0,especially in asthma
+expert4,0.3,0.6,0.1,
+expert5,0.05,0.9,0.05,
+expert6,0.4,0.35,0.25,
+expert7,0.75,0.15,0.1,
+expert8,0.5555555555555556,0.22222222222222227,0.22222222222222227,
