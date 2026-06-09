@@ -103,8 +103,8 @@ The benchmark supports comparison of multiple evidence fusion methods, including
 Clone the repository:
 
 ```bash
-git clone https://github.com/noname31157/A-Benchmark-for-Fusing-Expert-Elicited-Causal-Beliefs-under-Uncertainty.git
-cd A-Benchmark-for-Fusing-Expert-Elicited-Causal-Beliefs-under-Uncertainty
+git clone https://github.com/UzmaHasan/Causal-Evidence-Fusion-Under-Uncertainty
+cd Causal-Evidence-Fusion-Under-Uncertainty
 ```
 
 Create and activate a virtual environment:
